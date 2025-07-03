@@ -1,0 +1,6 @@
+requests
+pytz
+numpy
+ta-lib
+quotexapi
+python-telegram-bot==20.3
