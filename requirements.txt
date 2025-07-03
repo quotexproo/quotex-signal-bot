@@ -1,6 +1,5 @@
-requests
-pytz
-numpy
 ta-lib
-quotexapi
-python-telegram-bot==20.3
+numpy
+pandas
+python-telegram-bot
+git+https://github.com/IamSanketsingh/quotexapi
